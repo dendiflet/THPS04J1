@@ -11,7 +11,7 @@ class ApplicationController < Sinatra::Base
  	end
 
  	post '/gossips/new/' do
- 		puts "ce programme ne fait rien pour me moment, on va dpnc afficher un message en console"
+ 		puts "ce programme ne fait rien pour me moment, on va donc afficher un message en console"
  	end
 
 end
