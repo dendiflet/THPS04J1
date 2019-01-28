@@ -21,6 +21,8 @@
 
     gem 'shotgun'
 
+    gem 'csv'
+
     ####################  PENSER A AJOUTER LES AUTRES GEM NÉCÉSSAIRES MANUELLEMENT SVP    ######################
 
     #################### ou les décocher ################
