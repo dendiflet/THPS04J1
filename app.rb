@@ -7,5 +7,3 @@ Bundler.require
 #Les lignes suivantes dans app.rb vont te permettre d'appeler facilement les autres fichiers de classe
 $:.unshift File.expand_path("./../lib", __FILE__)
 
-
- require 'lib/.....rb' #normalement plus besoin de _relative avec le expand_path, a tester

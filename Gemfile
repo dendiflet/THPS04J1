@@ -3,7 +3,7 @@
   
     ruby '2.5.1'
   
-    gem 'rspec'
+    #gem 'rspec'
   
     gem 'pry'
   
@@ -17,6 +17,9 @@
 
     #gem 'pp'
     
+	gem 'sinatra'
+
+    gem 'shotgun'
 
     ####################  PENSER A AJOUTER LES AUTRES GEM NÉCÉSSAIRES MANUELLEMENT SVP    ######################
 
